@@ -3,11 +3,11 @@
 101
 # The second uncommented line is the last channel of the first cards scan list
 102
-# The first uncommented line is the first channel of the second cards scan list
+# The first uncommented line is the first channel of the second cards scan list use a -1 if you don't plan on using any channels from this card
 -1
 # The second uncommented line is the last channel of the second cards scan list
 -1
-# The first uncommented line is the first channel of the third cards scan list
+# The first uncommented line is the first channel of the third cards scan list use a -1 if you don't plan on using any channels from this card
 -1
 # The second uncommented line is the last channel of the third cards scan list
 -1
