@@ -1,0 +1,21 @@
+# This is a config file to set parameters for the py_scripter program.
+# The first uncommented line is the first channel of the first cards scan list
+101
+# The second uncommented line is the last channel of the first cards scan list
+102
+# The first uncommented line is the first channel of the second cards scan list
+-1
+# The second uncommented line is the last channel of the second cards scan list
+-1
+# The first uncommented line is the first channel of the third cards scan list
+-1
+# The second uncommented line is the last channel of the third cards scan list
+-1
+# The third uncommented line is the voltage range of the channels
+10
+# The fourth uncommented line is the resolution of the channels
+0.0001
+# The fifth uncommented line is how many seconds you want to scan
+20
+# The fifth uncommented line is reserved
+bar
