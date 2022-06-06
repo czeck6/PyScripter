@@ -40,8 +40,6 @@ else:
         'MEAS:VOLT:DC? ' + config[6] + ',' + config[7] + ',(@' + config[0] + ':' + config[1] + ',' + config[2] + ':' +
         config[3] + ',' + config[4] + ':' + config[5] + ')')
 
-# print(query)
-v1 = dac.query_ascii_values(query)
 
 # create a csv with the column headers as defined by the config file.
 basename = "voltage_monitoring"
